@@ -1,0 +1,29 @@
+/* 阿里图标库样式文件 */
+@font-face {
+  font-family: "iconfont";
+  src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAUAAAsAAAAACoAAAASzAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACDHAqGWIUqATYCJAMQCwoABCAFhG0HRRu0BxEVnF/JfiZkcgOJ1UPLBgjUrV+o8fD9fum5978NsA5bYB3WiQJWqOqyRrKqwtCxkS2rM7Eq+z+/v3rf/QB2DiBJpK1bFxDa1rpg1xHa/v/bXyggIzPx4Qs4oP+6fv/8v7kTEhgkIkMkMkQ0EUQTQTQRRBNBNBJEMhFEI0HETP/7f+8974pIRiQjkhHJiGREMiKSkYxIRjIimYhkJCOSEcmIZCQjGZGMZCQjGcmIZCQjGcmIZCQjGcmIZCQjGcmIZCQjGcmIZCQjGZGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZCQjGcmIZCQjGcmIZCQjGZGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZEQykpGMZCQjGcmIZCQjGZGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxmRjGQkI5KRjGREMpKRjEhGMpIRyUhGMiIZyUhGJCMZyYhkJCMZkYxkJCOSkYxkRDKSkYxIRjKSEclIRjIiGclIRiQjGcmIZCQjGZGMZCQjkpGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxmRjGQkI5KRjGREMpKRjEhGMpIRyUhGMiIZyUhGJCMZyYhkJCMZkYxkJCOSkYxkRDKSkYxIRjKSEclIRjIiGclIRiQjGcmIZCQjGZGMZCQjkpGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxmRjGQkI5KRjGREMpKRjEhGMpIRyUhGMiIZyUhGJCMZyYhkJCMZkYxkJCOSkYxkRDKSkYxIRjKSEclIRjIiGclIRiQjGcmIZCQjGZGMZCQjkpGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxmRjGQkI5KRjGREMpKRjEhGMpIRyUhGMiIZyUhGJCMZyYhkJCMZkYxkJCOSkYxkRDKSkYxIRjKSEclIRjIiGclIRiQjGcmIZCQjGZGMZCQjkpGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxmRjGQkI5KRjGREMpKRjEhGMpIRyUhGMiIZyUhGJCMZyYhkJCMZkYxkJCOSkYxkRDKSkYxIRjKSEclIRjIiGclIRiQjGcmIZCQjGZGMZCQjkpGMZEQykpGMSEYykhHJSEYyIhnJSEYkIxnJiGQkIxkAAP//AAMAegCIAAA=') format('woff2');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e624";
+}
+
+.icon-order:before {
+  content: "\e65e";
+}
+
+.icon-cart:before {
+  content: "\e60a";
+}
+
+.icon-user:before {
+  content: "\e600";
+}
